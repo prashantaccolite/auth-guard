@@ -11,7 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Task
 
 1) By default login page is going to access
-2) Now we can access directly `http://localhost:4200/vendor/active`. we have to avoid it
+2) Now we can access directly `http://localhost:4200/vendor/active`. we have to avoid it. Integrate `AuthGuard`
 3) If any user access direct link of `vendor/active` without login, user should be redirect to `login` page.
 4) Set static `username = admin` and `password = admin`
 5) By default `Login` button will be disabled.
