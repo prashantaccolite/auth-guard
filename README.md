@@ -18,3 +18,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 6) If credentials are wrong `Login` button will be disabled and `red border` will apply on both fields. error message not required.
 7) Apply `email validation` on Email field.
 8) Any `random search` in url will redirect to `login` page. Integrate `wildcard route`
+
+## Reference 
+
+[Icon Bootstrap](https://icons.getbootstrap.com/)
+
+[Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
